@@ -3,7 +3,7 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        echo 'Hi, this is Deepak from Dragin Island'
+                        echo 'Hi, this is Deepak from Dragon Island'
                         echo 'Dracarys'
                   }
             }
